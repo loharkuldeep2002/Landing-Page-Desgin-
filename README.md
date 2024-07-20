@@ -40,11 +40,11 @@ This project is a custom WordPress website developed for **Pyrotech Workspace So
 
 Here are some screenshots of the website to give you an idea of its design and layout:
 
-![Home Page](![image](https://github.com/user-attachments/assets/f6b7cfcc-ef2e-4828-8fad-ab36a782f8b7)
+(![image](https://github.com/user-attachments/assets/f6b7cfcc-ef2e-4828-8fad-ab36a782f8b7)
 )
-![Services Page](![image](https://github.com/user-attachments/assets/01c307c2-b545-49f1-bb0a-230fd0423602)
+(![image](https://github.com/user-attachments/assets/01c307c2-b545-49f1-bb0a-230fd0423602)
 )
-![Contact Page](![image](https://github.com/user-attachments/assets/233d90a9-f339-4f43-86eb-8625ce82602b)
+(![image](https://github.com/user-attachments/assets/233d90a9-f339-4f43-86eb-8625ce82602b)
 )
 
 ## Author
